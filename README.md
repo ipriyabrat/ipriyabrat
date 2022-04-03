@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ipriyabrat&color=47ccb3)
+<!-- ![](https://komarev.com/ghpvc/?username=ipriyabrat&color=47ccb3) -->
 
 ### Hello there and Welcome to my GitHub Profile!, My name is Priyabrat Dalbehera 😄
 
